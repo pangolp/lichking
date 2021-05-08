@@ -1,4 +1,4 @@
-# Lichking
+# Skeleton
 
 > English
 
